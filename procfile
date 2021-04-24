@@ -1,1 +1,1 @@
-worker= python upload_files.py
+worker: python upload_files.py
