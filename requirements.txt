@@ -1,3 +1,5 @@
 telethon
 garnet
-zipfiles
+Pillow
+wheel
+tgcrypto
